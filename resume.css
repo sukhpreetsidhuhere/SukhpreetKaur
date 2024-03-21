@@ -168,9 +168,12 @@ footer {
     margin-top: 15px;
     margin-bottom: 15px;
 }
-footer a, p {
+footer a, p , #list-of-skills{
     color: #444;
     text-decoration: none;
+}
+#list-of-skills{
+    margin-left: 50px;
 }
 /*education*/
 #education1 {
@@ -547,12 +550,7 @@ video {
     .themonic-nav li {
         border-bottom: 3px #cc1919 solid;
    }
-    #coloum1 h1 {
-        font-size: 25px;
-   }
-    #coloum2 h1 {
-        font-size: 25px;
-   }
+    
     .site-content1 {
         align-items: center;
         display: flex;
